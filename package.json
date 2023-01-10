@@ -1,0 +1,22 @@
+{
+  "name": "module11_homework",
+  "version": "1.0.0",
+  "description": "module11_homework skillfactory",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/virineaaa/module11_homework"
+  },
+  "keywords": [],
+  "author": "virineaaa",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1"
+  }
+}
